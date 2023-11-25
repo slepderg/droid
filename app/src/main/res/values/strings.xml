@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">kalkulator</string>
+    <string name="name">Калькулятор</string>
+    <string name="hint_1">Введите первое число</string>
+    <string name="hint_2">Введите второе число</string>
+    <string name="hint_3">Результат</string>
+    <string name="sl"> + </string>
+    <string name="vh"> - </string>
+    <string name="um"> * </string>
+    <string name="dl"> / </string>
+</resources>
